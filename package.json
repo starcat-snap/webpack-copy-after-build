@@ -1,0 +1,10 @@
+{
+  "name": "@snap-admin/webpack-copy-after-build",
+  "version": "1.0.1",
+  "description": "Copies files after a webpack build was finished",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "1.0.3"
+  }
+}
